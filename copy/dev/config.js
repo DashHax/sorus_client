@@ -1,0 +1,1 @@
+window.APIURL = "http://localhost:9997";

@@ -1,0 +1,26 @@
+{
+    "name": "Check-In Client for SORUS",
+    "short_name": "SORUS Client",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+      {
+        "src": "images/sorus-logo-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "images/sorus-logo-256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "images/sorus-logo-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ffd31d",
+    "background_color": "#333",
+    "display": "standalone"
+  }
